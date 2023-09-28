@@ -33,7 +33,9 @@ body{
 }
 
 #container {
-  width: 360px;
+  width:100%;
+  max-width: 588px;
+  padding: 0 24px;
   display:flex;
   margin:auto;
   padding-top:56px;
