@@ -27,7 +27,7 @@
  
 
 body{
-
+  
   background: var(--bg-url) no-repeat top center/cover;
   font-family: "Inter", sans-serif;
   height:100vh;
@@ -44,6 +44,8 @@ body{
   gap: 8px;
   flex-direction: column;
   text-align: center;
+  padding: 0 24px;
+  padding: 0 24px;
 
 }
 #profile {
@@ -164,7 +166,6 @@ ul li a:hover {
 }
 
 #social-links a:hover{
-
   background: var(--highlight-color);
 }
 
