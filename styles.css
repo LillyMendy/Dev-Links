@@ -175,6 +175,10 @@ padding: 24px;
 text-align:center;
 
 }
+
+footer a{
+  color:inherit; 
+}
 /* media queries*/
 
 @media(min-width : 700px){
